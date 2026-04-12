@@ -15,5 +15,10 @@
 			"Name": "GameplayStateTree",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows",
+		"Mac",
+		"Linux"
 	]
 }
